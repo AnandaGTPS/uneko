@@ -4,9 +4,9 @@ import { storage } from './src/firebase.js';
 import fs from 'fs';
 import { getAuth, GoogleAuthProvider, signInWithPopup } from 'firebase/auth'
 
-global.whatsapp = "6282139672290"
-global.user = { username: 'user1', password: 'password1' }; 
-global.apikey = "dimdogrgb";
+global.whatsapp = "385950609334"
+global.user = { username: 'Uneko', password: 'AdminUnf3768' }; 
+global.apikey = "DIMDOGRGB3768";
 
 global.uploadFile = async(fileBuffer, fileName) => {
   try {
